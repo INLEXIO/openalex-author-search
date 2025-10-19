@@ -480,10 +480,3 @@ st.markdown("""
     <small>OpenAlex Author Search Tool | Powered by Streamlit</small>
 </div>
 """, unsafe_allow_html=True)
-```
-
-### **File 2: `requirements.txt`**
-```
-streamlit==1.29.0
-pandas==2.1.4
-openpyxl==3.1.2
